@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  calculadoras-php:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: calculadoras-php
+    ports:
+      - "8080:80"
+    volumes:
+      - ./:/var/www/html
+    restart: always
