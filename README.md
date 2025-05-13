@@ -220,6 +220,6 @@ services:
 
 
 
-## 👥 Autores
+## 👥 Autor
 
 - **Daniel Ochoa Castrillón**  - [LDanielOchoa](https://github.com/LDanielOchoa)
